@@ -1,4 +1,4 @@
-//import the http
+//import the http module
 const http = require("http")
 
 //create a server with HTTP
